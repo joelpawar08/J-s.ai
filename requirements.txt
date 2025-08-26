@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+ollama
+python-multipart
+faster-whisper 
+pypdf
+pydub
